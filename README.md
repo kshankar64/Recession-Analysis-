@@ -1,12 +1,8 @@
-# Credit Card Fraud Detection Using Machine Learning
+#recession analysis Using Machine Learning
 
-This project implements and compares multiple machine learning models for detecting fraudulent credit card transactions. The workflow includes data preprocessing, handling class imbalance, outlier detection, model training, evaluation, and visualization.
+This project implements and compares multiple machine learning models for detecting recession analysis. The workflow includes data preprocessing, handling class imbalance, outlier detection, model training, evaluation, and visualization.
 
 ---
-
-## 📊 Problem Statement
-
-Credit card fraud is a significant issue for financial institutions and customers. The goal is to accurately identify fraudulent transactions within a highly imbalanced dataset, minimizing false positives and false negatives.
 
 ---
 
